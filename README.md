@@ -4,8 +4,8 @@
 
 ###   Software Enginer Student
 
-- i am a studentat **Muhammed Al-Xorazmi miyrasxorlari**.
-- I amcurrently learning **HTML5** and **CSS3**.
+- i am a student at **Muhammed Al-Xorazmi miyrasxorlari**.
+- I am currently learning **HTML5** and **CSS3**.
 - I love solving logic puzzle and building "hacker-style" web projects.
 - Based in **karakalpakstan, uzbekistan**.
 
