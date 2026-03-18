@@ -4,7 +4,10 @@
 
 ###   Software Enginer Student
 
-### Aboud Me
+- i am a studentat **Muhammed Al-Xorazmi miyrasxorlari**.
+- I amcurrently learning **HTML5** and **CSS3**.
+- I love solving logic puzzle and building "hacker-style" web projects.
+- Based in **karakalpakstan, uzbekistan**.
 
 <!--
 **kenesbaevdev/kenesbaevdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
