@@ -1,7 +1,10 @@
 ## Hi, I'm Kenesbaev Sagindiq <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNrenV6bGg2bHNwYWpsNWd0dTlqcTVzZ3N1bHVmdjNmYnRibmdkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FAFo1M7EC4gRZ4HETH/giphy.gif" width="15%">
 
 
-
+- i am a student at **Muhammed Al-Xorazmi miyrasxorlari**.
+- I am currently learning **HTML5** and **CSS3**.
+- I love solving logic puzzle and building "hacker-style" web projects.
+- Based in **karakalpakstan, uzbekistan**.
 
 
 
