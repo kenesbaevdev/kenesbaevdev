@@ -1,10 +1,44 @@
-## Hi, I'm Kenesbaev Sagindiq <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNrenV6bGg2bHNwYWpsNWd0dTlqcTVzZ3N1bHVmdjNmYnRibmdkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FAFo1M7EC4gRZ4HETH/giphy.gif" width="15%">
+<h1 align="center">Hi 👋, I'm Ken'esbaev Sag'indiq</h1>
+<h3 align="center">💻 Web Developer Student from Uzbekistan</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;Learning+HTML+CSS+JavaScript;Always+improving+myself🚀" />
+</p>
 
-- i am a student at **Muhammed Al-Xorazmi miyrasxorlari**.
-- I am currently learning **HTML5** and **CSS3**.
-- I love solving logic puzzle and building "hacker-style" web projects.
-- Based in **karakalpakstan, uzbekistan**.
+---
+
+## 🧑‍💻 About Me:
+- 🎓 I am a student  
+- 💻 Currently learning HTML, CSS, JavaScript  
+- ⚡️ Love solving problems and building projects  
+- 🌍 Based in Uzbekistan
+
+---
+
+## 🚀 Skills:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with me:
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"></a>
+</p>
+
+---
+
+⭐️ From Ken'esbaev Sag'indiq
 
 
 
